@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Node.js**
 
-- 💬 Ask me about **node.js,Javascript,C,C++,React,Bootstrap,Material UI**
+- 💬 Ask me about **node.js,Javascript,C,C++,React,Bootstrap,Material UI,TypeScript,GraphQl,ApolloGrqphQl,Postgres**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
