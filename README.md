@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Prakash Adhikari</h1>
-<h3 align="center">A passionate backend developer from Nepal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prakashad&label=Profile%20views&color=0e75b6&style=flat" alt="prakashad" /> </p>
 
@@ -7,7 +6,7 @@
 
 - 🌱 I’m currently learning **Node.js**
 
-- 💬 Ask me about **node.js,Javascript,C,C++,React,Bootstrap,Material UI,TypeScript,GraphQl,ApolloGrqphQl,Postgres**
+- 💬 Ask me about **node.js,Javascript,React,Bootstrap,Material UI,TypeScript,GraphQl,ApolloGrqphQl,Postgres**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
